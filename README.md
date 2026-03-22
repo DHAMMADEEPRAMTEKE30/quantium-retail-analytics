@@ -21,6 +21,7 @@ and the performance of a new in-store trial layout.
 quantium-retail-analytics/
 │
 ├── README.md
+├── requirements.txt
 ├── data/
 │   └── QVI_data.csv               # Cleaned & merged dataset
 │
